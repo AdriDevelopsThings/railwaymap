@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3081 filtered ascend = 4 plain-ascend = 4 cost=3081 energy=0.0kwh time=4m 7s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.3">
+ <trk>
+  <name>Leipzig Hbf (tief) - Leipzig MDR</name>
+  <link href="https://brouter.m11n.de/#map=16/51.3168/12.4021/standard&amp;lonlats=12.378416,51.344214;12.382879,51.326565;12.386672,51.319204&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.344182" lon="12.378465"><ele>115</ele></trkpt>
+   <trkpt lat="51.343935" lon="12.378073"><ele>115</ele></trkpt>
+   <trkpt lat="51.343444" lon="12.377241"><ele>115</ele></trkpt>
+   <trkpt lat="51.342948" lon="12.376441"><ele>115</ele></trkpt>
+   <trkpt lat="51.342679" lon="12.376055"><ele>115</ele></trkpt>
+   <trkpt lat="51.342415" lon="12.375703"><ele>115</ele></trkpt>
+   <trkpt lat="51.342122" lon="12.375367"><ele>115</ele></trkpt>
+   <trkpt lat="51.341749" lon="12.375031"><ele>115</ele></trkpt>
+   <trkpt lat="51.341376" lon="12.374787"><ele>115</ele></trkpt>
+   <trkpt lat="51.3409" lon="12.374557"><ele>115</ele></trkpt>
+   <trkpt lat="51.340715" lon="12.374497"><ele>115</ele></trkpt>
+   <trkpt lat="51.340332" lon="12.374392"><ele>115</ele></trkpt>
+   <trkpt lat="51.340079" lon="12.374383"><ele>115</ele></trkpt>
+   <trkpt lat="51.339575" lon="12.374443"><ele>115</ele></trkpt>
+   <trkpt lat="51.338698" lon="12.374576"><ele>115</ele></trkpt>
+   <trkpt lat="51.337803" lon="12.374742"><ele>115</ele></trkpt>
+   <trkpt lat="51.337236" lon="12.374893"><ele>115</ele></trkpt>
+   <trkpt lat="51.336662" lon="12.375024"><ele>115</ele></trkpt>
+   <trkpt lat="51.335423" lon="12.37523"><ele>115</ele></trkpt>
+   <trkpt lat="51.335102" lon="12.37531"><ele>115</ele></trkpt>
+   <trkpt lat="51.334852" lon="12.375409"><ele>115</ele></trkpt>
+   <trkpt lat="51.334659" lon="12.375497"><ele>115</ele></trkpt>
+   <trkpt lat="51.33451" lon="12.375586"><ele>115</ele></trkpt>
+   <trkpt lat="51.334323" lon="12.375714"><ele>115</ele></trkpt>
+   <trkpt lat="51.334192" lon="12.375816"><ele>115</ele></trkpt>
+   <trkpt lat="51.334016" lon="12.375989"><ele>115</ele></trkpt>
+   <trkpt lat="51.333746" lon="12.376255"><ele>115.25</ele></trkpt>
+   <trkpt lat="51.33339" lon="12.376631"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.333036" lon="12.377107"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.331795" lon="12.379116"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.330963" lon="12.38029"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.330469" lon="12.380771"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.330135" lon="12.381045"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.329694" lon="12.38135"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.329656" lon="12.381368"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.329502" lon="12.381445"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.328841" lon="12.381788"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.328645" lon="12.381904"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.328462" lon="12.382013"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.326577" lon="12.382944"><ele>118</ele></trkpt>
+   <trkpt lat="51.325871" lon="12.383293"><ele>119</ele></trkpt>
+   <trkpt lat="51.325693" lon="12.383375"><ele>119</ele></trkpt>
+   <trkpt lat="51.325311" lon="12.383558"><ele>119.25</ele></trkpt>
+   <trkpt lat="51.325113" lon="12.383651"><ele>119.5</ele></trkpt>
+   <trkpt lat="51.323167" lon="12.384636"><ele>119</ele></trkpt>
+   <trkpt lat="51.323058" lon="12.38469"><ele>119</ele></trkpt>
+   <trkpt lat="51.321438" lon="12.38553"><ele>118.5</ele></trkpt>
+   <trkpt lat="51.320405" lon="12.386065"><ele>119.5</ele></trkpt>
+   <trkpt lat="51.319993" lon="12.386278"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.319928" lon="12.386312"><ele>120.5</ele></trkpt>
+   <trkpt lat="51.319206" lon="12.386683"><ele>120</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
