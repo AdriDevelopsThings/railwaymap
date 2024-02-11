@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1021 filtered ascend = 0 plain-ascend = 0 cost=2042 energy=0.0kwh time=1m 22s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Potsdamer Platz - Stadtmitte (U2)</name>
+  <trkseg>
+   <trkpt lat="52.508564" lon="13.377502"/>
+   <trkpt lat="52.508716" lon="13.37765"/>
+   <trkpt lat="52.508844" lon="13.377811"/>
+   <trkpt lat="52.509003" lon="13.378056"/>
+   <trkpt lat="52.509134" lon="13.378304"/>
+   <trkpt lat="52.509306" lon="13.378634"/>
+   <trkpt lat="52.509404" lon="13.378802"/>
+   <trkpt lat="52.509494" lon="13.378934"/>
+   <trkpt lat="52.509613" lon="13.379087"/>
+   <trkpt lat="52.509717" lon="13.379196"/>
+   <trkpt lat="52.510648" lon="13.380094"/>
+   <trkpt lat="52.510787" lon="13.380261"/>
+   <trkpt lat="52.510877" lon="13.380414"/>
+   <trkpt lat="52.510951" lon="13.380589"/>
+   <trkpt lat="52.510978" lon="13.380675"/>
+   <trkpt lat="52.511003" lon="13.380771"/>
+   <trkpt lat="52.511037" lon="13.380957"/>
+   <trkpt lat="52.511053" lon="13.381076"/>
+   <trkpt lat="52.511065" lon="13.381162"/>
+   <trkpt lat="52.511139" lon="13.381825"/>
+   <trkpt lat="52.511222" lon="13.382396"/>
+   <trkpt lat="52.51147" lon="13.383705"/>
+   <trkpt lat="52.511629" lon="13.384555"/>
+   <trkpt lat="52.511697" lon="13.384956"/>
+   <trkpt lat="52.511813" lon="13.385852"/>
+   <trkpt lat="52.511867" lon="13.386283"/>
+   <trkpt lat="52.511912" lon="13.386732"/>
+   <trkpt lat="52.511996" lon="13.387961"/>
+   <trkpt lat="52.512027" lon="13.388228"/>
+   <trkpt lat="52.512024" lon="13.388661"/>
+   <trkpt lat="52.512024" lon="13.388734"/>
+   <trkpt lat="52.512036" lon="13.389164"><ele>46.5</ele></trkpt>
+   <trkpt lat="52.51204" lon="13.389282"><ele>46.5</ele></trkpt>
+   <trkpt lat="52.512067" lon="13.389778"><ele>46.5</ele></trkpt>
+   <trkpt lat="52.512101" lon="13.390363"><ele>46.5</ele></trkpt>
+   <trkpt lat="52.512103" lon="13.390406"><ele>46.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

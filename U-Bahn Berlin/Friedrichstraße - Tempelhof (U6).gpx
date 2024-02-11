@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 5598 filtered ascend = 0 plain-ascend = 0 cost=11196 energy=0.1kwh time=7m 28s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Friedrichstraße - Tempelhof (U6)</name>
+  <trkseg>
+   <trkpt lat="52.519658" lon="13.388321"/>
+   <trkpt lat="52.519368" lon="13.388397"/>
+   <trkpt lat="52.51879" lon="13.388479"/>
+   <trkpt lat="52.518637" lon="13.388515"/>
+   <trkpt lat="52.517661" lon="13.388674"/>
+   <trkpt lat="52.517394" lon="13.388719"/>
+   <trkpt lat="52.516536" lon="13.388856"/>
+   <trkpt lat="52.51618" lon="13.388914"/>
+   <trkpt lat="52.51564" lon="13.388996"/>
+   <trkpt lat="52.515403" lon="13.389005"/>
+   <trkpt lat="52.515226" lon="13.389027"/>
+   <trkpt lat="52.513841" lon="13.389295"/>
+   <trkpt lat="52.512757" lon="13.38947"/>
+   <trkpt lat="52.512496" lon="13.389489"/>
+   <trkpt lat="52.511774" lon="13.389585"/>
+   <trkpt lat="52.510851" lon="13.389743"/>
+   <trkpt lat="52.510662" lon="13.389776"/>
+   <trkpt lat="52.510219" lon="13.389843"/>
+   <trkpt lat="52.509652" lon="13.389974"/>
+   <trkpt lat="52.509373" lon="13.390037"/>
+   <trkpt lat="52.508231" lon="13.390226"/>
+   <trkpt lat="52.507623" lon="13.39032"/>
+   <trkpt lat="52.50637" lon="13.390472"/>
+   <trkpt lat="52.506127" lon="13.390511"/>
+   <trkpt lat="52.505501" lon="13.390615"/>
+   <trkpt lat="52.504987" lon="13.390753"/>
+   <trkpt lat="52.504338" lon="13.390839"/>
+   <trkpt lat="52.501528" lon="13.39125"/>
+   <trkpt lat="52.500089" lon="13.391491"/>
+   <trkpt lat="52.499423" lon="13.391604"/>
+   <trkpt lat="52.498696" lon="13.39164"/>
+   <trkpt lat="52.498497" lon="13.391652"/>
+   <trkpt lat="52.498183" lon="13.391642"/>
+   <trkpt lat="52.497737" lon="13.391533"/>
+   <trkpt lat="52.497303" lon="13.391404"/>
+   <trkpt lat="52.497154" lon="13.391351"/>
+   <trkpt lat="52.497012" lon="13.391277"/>
+   <trkpt lat="52.496894" lon="13.391193"/>
+   <trkpt lat="52.496744" lon="13.39104"/>
+   <trkpt lat="52.496274" lon="13.390466"/>
+   <trkpt lat="52.496189" lon="13.390363"/>
+   <trkpt lat="52.495751" lon="13.389741"/>
+   <trkpt lat="52.495404" lon="13.389449"/>
+   <trkpt lat="52.495008" lon="13.389153"/>
+   <trkpt lat="52.494366" lon="13.388632"/>
+   <trkpt lat="52.494093" lon="13.3884"/>
+   <trkpt lat="52.49387" lon="13.388194"/>
+   <trkpt lat="52.493702" lon="13.388037"/>
+   <trkpt lat="52.493446" lon="13.387928"/>
+   <trkpt lat="52.493076" lon="13.387754"/>
+   <trkpt lat="52.4926" lon="13.387393"/>
+   <trkpt lat="52.492003" lon="13.387045"/>
+   <trkpt lat="52.491932" lon="13.387016"/>
+   <trkpt lat="52.490437" lon="13.38641"/>
+   <trkpt lat="52.49013" lon="13.38632"/>
+   <trkpt lat="52.489322" lon="13.386127"/>
+   <trkpt lat="52.488728" lon="13.386028"/>
+   <trkpt lat="52.488103" lon="13.385949"/>
+   <trkpt lat="52.487539" lon="13.385887"/>
+   <trkpt lat="52.487105" lon="13.385852"/>
+   <trkpt lat="52.486626" lon="13.385825"/>
+   <trkpt lat="52.486359" lon="13.385818"/>
+   <trkpt lat="52.485597" lon="13.385801"/>
+   <trkpt lat="52.484713" lon="13.385786"/>
+   <trkpt lat="52.484344" lon="13.385801"/>
+   <trkpt lat="52.484122" lon="13.385844"/>
+   <trkpt lat="52.484008" lon="13.38588"/>
+   <trkpt lat="52.483335" lon="13.386146"/>
+   <trkpt lat="52.483113" lon="13.386203"/>
+   <trkpt lat="52.482674" lon="13.386297"/>
+   <trkpt lat="52.482461" lon="13.386332"/>
+   <trkpt lat="52.48072" lon="13.386303"/>
+   <trkpt lat="52.479344" lon="13.386266"/>
+   <trkpt lat="52.478823" lon="13.386197"/>
+   <trkpt lat="52.478591" lon="13.386181"/>
+   <trkpt lat="52.47812" lon="13.386171"/>
+   <trkpt lat="52.477681" lon="13.38616"/>
+   <trkpt lat="52.477427" lon="13.386178"/>
+   <trkpt lat="52.477038" lon="13.386207"/>
+   <trkpt lat="52.474604" lon="13.386133"/>
+   <trkpt lat="52.47293" lon="13.386103"/>
+   <trkpt lat="52.472623" lon="13.386068"/>
+   <trkpt lat="52.472355" lon="13.386003"/>
+   <trkpt lat="52.472232" lon="13.385963"/>
+   <trkpt lat="52.472113" lon="13.385924"/>
+   <trkpt lat="52.471425" lon="13.385604"/>
+   <trkpt lat="52.471207" lon="13.385526"/>
+   <trkpt lat="52.470977" lon="13.385485"/>
+   <trkpt lat="52.470749" lon="13.385479"/>
+   <trkpt lat="52.470342" lon="13.385471"/>
+   <trkpt lat="52.470288" lon="13.385475"/>
+  </trkseg>
+ </trk>
+</gpx>

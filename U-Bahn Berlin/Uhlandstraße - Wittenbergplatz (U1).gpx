@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1297 filtered ascend = 0 plain-ascend = 0 cost=2594 energy=0.0kwh time=1m 44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Uhlandstraße - Wittenbergplatz (U1)</name>
+  <trkseg>
+   <trkpt lat="52.50264" lon="13.326197"/>
+   <trkpt lat="52.502661" lon="13.326295"/>
+   <trkpt lat="52.502808" lon="13.326957"/>
+   <trkpt lat="52.503014" lon="13.327949"/>
+   <trkpt lat="52.503116" lon="13.328401"/>
+   <trkpt lat="52.503303" lon="13.329268"/>
+   <trkpt lat="52.503884" lon="13.331818"/>
+   <trkpt lat="52.504174" lon="13.333476"/>
+   <trkpt lat="52.504249" lon="13.333902"/>
+   <trkpt lat="52.50435" lon="13.334376"/>
+   <trkpt lat="52.504391" lon="13.334647"/>
+   <trkpt lat="52.504404" lon="13.334801"/>
+   <trkpt lat="52.504409" lon="13.334964"/>
+   <trkpt lat="52.504407" lon="13.33522"/>
+   <trkpt lat="52.504375" lon="13.33556"/>
+   <trkpt lat="52.504335" lon="13.335814"/>
+   <trkpt lat="52.50428" lon="13.3361"/>
+   <trkpt lat="52.504228" lon="13.336288"/>
+   <trkpt lat="52.504167" lon="13.336468"/>
+   <trkpt lat="52.504012" lon="13.336868"/>
+   <trkpt lat="52.503017" lon="13.339423"/>
+   <trkpt lat="52.502859" lon="13.339721"/>
+   <trkpt lat="52.502644" lon="13.340167"/>
+   <trkpt lat="52.502085" lon="13.341531"/>
+   <trkpt lat="52.501856" lon="13.342007"/>
+   <trkpt lat="52.501687" lon="13.342479"/>
+   <trkpt lat="52.501595" lon="13.342867"/>
+   <trkpt lat="52.501568" lon="13.342992"/>
+   <trkpt lat="52.501517" lon="13.343304"/>
+   <trkpt lat="52.501497" lon="13.343462"/>
+  </trkseg>
+ </trk>
+</gpx>
