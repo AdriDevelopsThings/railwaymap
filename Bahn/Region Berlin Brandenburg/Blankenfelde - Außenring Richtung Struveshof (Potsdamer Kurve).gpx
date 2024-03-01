@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2101 filtered ascend = 2 plain-ascend = 3 cost=2101 energy=0.0kwh time=2m 48s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.8">
+ <trk>
+  <name>Blankenfelde - Außenring Richtung Struveshof (Potsdamer Kurve)</name>
+  <link href="https://brouter.m11n.de/#map=13/52.3417/13.3714/standard&amp;lonlats=13.416442,52.335941;13.411249,52.348534;13.402373,52.348666&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.335938" lon="13.41642"><ele>43.25</ele></trkpt>
+   <trkpt lat="52.336827" lon="13.416131"><ele>42</ele></trkpt>
+   <trkpt lat="52.337064" lon="13.416047"><ele>41.75</ele></trkpt>
+   <trkpt lat="52.337472" lon="13.415907"><ele>41</ele></trkpt>
+   <trkpt lat="52.337716" lon="13.415823"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.337781" lon="13.415804"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.337827" lon="13.415791"><ele>41.75</ele></trkpt>
+   <trkpt lat="52.338403" lon="13.415654"><ele>43</ele></trkpt>
+   <trkpt lat="52.33849" lon="13.415627"><ele>43</ele></trkpt>
+   <trkpt lat="52.339406" lon="13.415306"><ele>44</ele></trkpt>
+   <trkpt lat="52.340901" lon="13.414797"><ele>43.75</ele></trkpt>
+   <trkpt lat="52.341255" lon="13.414659"><ele>43.5</ele></trkpt>
+   <trkpt lat="52.34145" lon="13.414578"><ele>43.5</ele></trkpt>
+   <trkpt lat="52.341828" lon="13.414386"><ele>43.75</ele></trkpt>
+   <trkpt lat="52.342104" lon="13.414226"><ele>44.25</ele></trkpt>
+   <trkpt lat="52.342512" lon="13.413976"><ele>45</ele></trkpt>
+   <trkpt lat="52.342889" lon="13.413766"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.343252" lon="13.413573"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.343874" lon="13.41324"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.344175" lon="13.41307"><ele>46</ele></trkpt>
+   <trkpt lat="52.344388" lon="13.412963"><ele>46</ele></trkpt>
+   <trkpt lat="52.344649" lon="13.412846"><ele>46</ele></trkpt>
+   <trkpt lat="52.344798" lon="13.412788"><ele>46</ele></trkpt>
+   <trkpt lat="52.345283" lon="13.412634"><ele>46</ele></trkpt>
+   <trkpt lat="52.346199" lon="13.412359"><ele>46</ele></trkpt>
+   <trkpt lat="52.34723" lon="13.412046"><ele>46</ele></trkpt>
+   <trkpt lat="52.347426" lon="13.411979"><ele>46</ele></trkpt>
+   <trkpt lat="52.347565" lon="13.411924"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.347702" lon="13.411857"><ele>45.75</ele></trkpt>
+   <trkpt lat="52.347913" lon="13.411734"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.348024" lon="13.411656"><ele>45.25</ele></trkpt>
+   <trkpt lat="52.348338" lon="13.411385"><ele>45</ele></trkpt>
+   <trkpt lat="52.348503" lon="13.411182"><ele>45</ele></trkpt>
+   <trkpt lat="52.348555" lon="13.41112"><ele>45</ele></trkpt>
+   <trkpt lat="52.34866" lon="13.410977"><ele>45</ele></trkpt>
+   <trkpt lat="52.34876" lon="13.410828"><ele>45</ele></trkpt>
+   <trkpt lat="52.348855" lon="13.410669"><ele>45</ele></trkpt>
+   <trkpt lat="52.349038" lon="13.410315"><ele>45</ele></trkpt>
+   <trkpt lat="52.349127" lon="13.41011"><ele>45</ele></trkpt>
+   <trkpt lat="52.3492" lon="13.409923"><ele>45</ele></trkpt>
+   <trkpt lat="52.349311" lon="13.409588"><ele>45</ele></trkpt>
+   <trkpt lat="52.349396" lon="13.409273"><ele>45.25</ele></trkpt>
+   <trkpt lat="52.349498" lon="13.408748"><ele>45.25</ele></trkpt>
+   <trkpt lat="52.349543" lon="13.40841"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.349564" lon="13.408166"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.349576" lon="13.407945"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.349579" lon="13.407441"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.349558" lon="13.407089"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.349538" lon="13.406893"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.349537" lon="13.406885"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.349462" lon="13.406312"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.349416" lon="13.406047"><ele>45.25</ele></trkpt>
+   <trkpt lat="52.349287" lon="13.40537"><ele>45</ele></trkpt>
+   <trkpt lat="52.349172" lon="13.404853"><ele>45</ele></trkpt>
+   <trkpt lat="52.348757" lon="13.402832"><ele>45.5</ele></trkpt>
+   <trkpt lat="52.348733" lon="13.402724"><ele>45.25</ele></trkpt>
+   <trkpt lat="52.348656" lon="13.402377"><ele>45.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
