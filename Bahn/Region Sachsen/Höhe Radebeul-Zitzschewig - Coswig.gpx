@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 3046 filtered ascend = 3 plain-ascend = 2 cost=3046 energy=0.0kwh time=4m 4s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Höhe Radebeul-Zitzschewig - Coswig</name>
+  <link href="https://brouter.m11n.de/#map=18/51.11449/13.60798/standard&amp;lonlats=13.618332,51.110813;13.6122,51.112627;13.605795,51.114524;13.597791,51.117002;13.579262,51.122885&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.1108" lon="13.618322"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.110902" lon="13.617996"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.111309" lon="13.616542"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.111702" lon="13.615282"><ele>108</ele></trkpt>
+   <trkpt lat="51.111997" lon="13.614337"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.112558" lon="13.612401"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.11262" lon="13.612194"><ele>109</ele></trkpt>
+   <trkpt lat="51.112801" lon="13.611596"><ele>109</ele></trkpt>
+   <trkpt lat="51.113022" lon="13.610864"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.113302" lon="13.609943"><ele>108</ele></trkpt>
+   <trkpt lat="51.113451" lon="13.609454"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.113514" lon="13.609243"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.113713" lon="13.608598"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.113816" lon="13.608252"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.114198" lon="13.606975"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.114535" lon="13.605803"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.114755" lon="13.605044"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.114875" lon="13.604621"><ele>110</ele></trkpt>
+   <trkpt lat="51.115363" lon="13.602966"><ele>110.5</ele></trkpt>
+   <trkpt lat="51.115717" lon="13.601731"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.115942" lon="13.600975"><ele>109</ele></trkpt>
+   <trkpt lat="51.116371" lon="13.599594"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.116941" lon="13.598092"><ele>110.25</ele></trkpt>
+   <trkpt lat="51.117037" lon="13.597823"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.117425" lon="13.596745"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.117945" lon="13.594986"><ele>111.25</ele></trkpt>
+   <trkpt lat="51.118004" lon="13.594787"><ele>111</ele></trkpt>
+   <trkpt lat="51.118185" lon="13.594158"><ele>109.75</ele></trkpt>
+   <trkpt lat="51.118669" lon="13.592731"><ele>108</ele></trkpt>
+   <trkpt lat="51.11933" lon="13.590557"><ele>109</ele></trkpt>
+   <trkpt lat="51.119504" lon="13.589984"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.119736" lon="13.589213"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.120124" lon="13.587941"><ele>108</ele></trkpt>
+   <trkpt lat="51.120746" lon="13.58589"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.121422" lon="13.583659"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.121727" lon="13.582654"><ele>107</ele></trkpt>
+   <trkpt lat="51.122162" lon="13.581233"><ele>107.5</ele></trkpt>
+   <trkpt lat="51.122345" lon="13.580679"><ele>108</ele></trkpt>
+   <trkpt lat="51.122541" lon="13.580123"><ele>108</ele></trkpt>
+   <trkpt lat="51.122601" lon="13.579962"><ele>108</ele></trkpt>
+   <trkpt lat="51.122748" lon="13.579584"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.122883" lon="13.57926"><ele>109</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

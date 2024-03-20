@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 11809 filtered ascend = 8 plain-ascend = -9 cost=11809 energy=0.1kwh time=15m 44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.12">
+ <trk>
+  <name>Ortrand - Ruhland</name>
+  <link href="https://brouter.m11n.de/#map=17/51.45525/13.87329/standard&amp;lonlats=13.764488,51.373058;13.771169,51.38039;13.777928,51.387566;13.808441,51.40741;13.857365,51.447322;13.870497,51.455593&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="51.373054" lon="13.764496"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.373192" lon="13.764621"><ele>115.75</ele></trkpt>
+   <trkpt lat="51.373571" lon="13.764962"><ele>115.5</ele></trkpt>
+   <trkpt lat="51.374701" lon="13.765978"><ele>112.5</ele></trkpt>
+   <trkpt lat="51.374808" lon="13.766072"><ele>112.25</ele></trkpt>
+   <trkpt lat="51.375037" lon="13.766269"><ele>111.75</ele></trkpt>
+   <trkpt lat="51.376126" lon="13.767224"><ele>110</ele></trkpt>
+   <trkpt lat="51.376324" lon="13.76741"><ele>109.25</ele></trkpt>
+   <trkpt lat="51.376523" lon="13.767591"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.378253" lon="13.769095"><ele>108</ele></trkpt>
+   <trkpt lat="51.378395" lon="13.769216"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.380433" lon="13.771043"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.382746" lon="13.773118"><ele>113.5</ele></trkpt>
+   <trkpt lat="51.384489" lon="13.774664"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.386145" lon="13.776197"><ele>106</ele></trkpt>
+   <trkpt lat="51.386601" lon="13.776647"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.387054" lon="13.777145"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.387455" lon="13.77762"><ele>107.25</ele></trkpt>
+   <trkpt lat="51.387615" lon="13.777829"><ele>106.5</ele></trkpt>
+   <trkpt lat="51.388078" lon="13.77843"><ele>106.5</ele></trkpt>
+   <trkpt lat="51.394184" lon="13.78659"><ele>107</ele></trkpt>
+   <trkpt lat="51.395272" lon="13.788048"><ele>106.25</ele></trkpt>
+   <trkpt lat="51.408699" lon="13.805964"><ele>106.75</ele></trkpt>
+   <trkpt lat="51.411191" lon="13.809288"><ele>106.75</ele></trkpt>
+   <trkpt lat="51.416475" lon="13.816333"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.419341" lon="13.820142"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.424072" lon="13.826476"><ele>109.5</ele></trkpt>
+   <trkpt lat="51.433077" lon="13.8385"><ele>107.75</ele></trkpt>
+   <trkpt lat="51.43411" lon="13.839867"><ele>107.5</ele></trkpt>
+   <trkpt lat="51.435134" lon="13.841223"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.438188" lon="13.845323"><ele>108.25</ele></trkpt>
+   <trkpt lat="51.438269" lon="13.845433"><ele>108.5</ele></trkpt>
+   <trkpt lat="51.438998" lon="13.84641"><ele>108.75</ele></trkpt>
+   <trkpt lat="51.441194" lon="13.849348"><ele>111.5</ele></trkpt>
+   <trkpt lat="51.443028" lon="13.851816"><ele>103.25</ele></trkpt>
+   <trkpt lat="51.443197" lon="13.852052"><ele>103.75</ele></trkpt>
+   <trkpt lat="51.447182" lon="13.857619"><ele>102.5</ele></trkpt>
+   <trkpt lat="51.447955" lon="13.8587"><ele>102.5</ele></trkpt>
+   <trkpt lat="51.448196" lon="13.859057"><ele>102.25</ele></trkpt>
+   <trkpt lat="51.44839" lon="13.859363"><ele>102.25</ele></trkpt>
+   <trkpt lat="51.448579" lon="13.859682"><ele>102</ele></trkpt>
+   <trkpt lat="51.448889" lon="13.860233"><ele>101.5</ele></trkpt>
+   <trkpt lat="51.449387" lon="13.861217"><ele>102.75</ele></trkpt>
+   <trkpt lat="51.449986" lon="13.862411"><ele>102</ele></trkpt>
+   <trkpt lat="51.450259" lon="13.862929"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.450339" lon="13.863072"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.450613" lon="13.863534"><ele>101.5</ele></trkpt>
+   <trkpt lat="51.450897" lon="13.863974"><ele>101.75</ele></trkpt>
+   <trkpt lat="51.451258" lon="13.864482"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.451449" lon="13.86475"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.451505" lon="13.864829"><ele>101</ele></trkpt>
+   <trkpt lat="51.451951" lon="13.865449"><ele>101.25</ele></trkpt>
+   <trkpt lat="51.452197" lon="13.865793"><ele>101.5</ele></trkpt>
+   <trkpt lat="51.452777" lon="13.866601"><ele>100.75</ele></trkpt>
+   <trkpt lat="51.453591" lon="13.867734"><ele>99.75</ele></trkpt>
+   <trkpt lat="51.455238" lon="13.870023"><ele>100.5</ele></trkpt>
+   <trkpt lat="51.455584" lon="13.870511"><ele>100</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
