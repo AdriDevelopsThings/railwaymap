@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1345 filtered ascend = 6 plain-ascend = 5 cost=2690 energy=0.0kwh time=1m 47s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Hauptbahnhof Nord - S-Bahnhof Freiberger Straße (10)</name>
+  <trkseg>
+   <trkpt lat="51.040904" lon="13.733234"><ele>115</ele></trkpt>
+   <trkpt lat="51.041135" lon="13.732531"><ele>116.5</ele></trkpt>
+   <trkpt lat="51.041212" lon="13.732295"><ele>116.75</ele></trkpt>
+   <trkpt lat="51.041364" lon="13.73183"><ele>117</ele></trkpt>
+   <trkpt lat="51.041587" lon="13.731144"><ele>116</ele></trkpt>
+   <trkpt lat="51.041774" lon="13.730567"><ele>116</ele></trkpt>
+   <trkpt lat="51.04186" lon="13.730313"><ele>116</ele></trkpt>
+   <trkpt lat="51.042001" lon="13.729914"><ele>116</ele></trkpt>
+   <trkpt lat="51.042338" lon="13.729023"><ele>116</ele></trkpt>
+   <trkpt lat="51.042453" lon="13.728698"><ele>116.25</ele></trkpt>
+   <trkpt lat="51.042767" lon="13.727743"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.042978" lon="13.727153"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.043614" lon="13.725559"><ele>118</ele></trkpt>
+   <trkpt lat="51.043623" lon="13.725538"><ele>118</ele></trkpt>
+   <trkpt lat="51.043643" lon="13.725488"><ele>118</ele></trkpt>
+   <trkpt lat="51.04367" lon="13.725422"><ele>118</ele></trkpt>
+   <trkpt lat="51.043945" lon="13.724722"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.043981" lon="13.72463"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.044112" lon="13.724315"><ele>117.25</ele></trkpt>
+   <trkpt lat="51.044301" lon="13.723797"><ele>117.5</ele></trkpt>
+   <trkpt lat="51.044546" lon="13.723031"><ele>118.75</ele></trkpt>
+   <trkpt lat="51.044604" lon="13.722871"><ele>119</ele></trkpt>
+   <trkpt lat="51.044704" lon="13.722656"><ele>119</ele></trkpt>
+   <trkpt lat="51.044821" lon="13.722487"><ele>119.25</ele></trkpt>
+   <trkpt lat="51.044946" lon="13.722353"><ele>119.25</ele></trkpt>
+   <trkpt lat="51.045088" lon="13.722237"><ele>119</ele></trkpt>
+   <trkpt lat="51.045258" lon="13.72214"><ele>118</ele></trkpt>
+   <trkpt lat="51.045828" lon="13.721864"><ele>116</ele></trkpt>
+   <trkpt lat="51.047072" lon="13.721253"><ele>117.75</ele></trkpt>
+   <trkpt lat="51.047101" lon="13.721239"><ele>118</ele></trkpt>
+   <trkpt lat="51.047188" lon="13.721196"><ele>118</ele></trkpt>
+   <trkpt lat="51.047249" lon="13.721166"><ele>118</ele></trkpt>
+   <trkpt lat="51.048127" lon="13.720736"><ele>121.5</ele></trkpt>
+   <trkpt lat="51.04878" lon="13.720415"><ele>120</ele></trkpt>
+   <trkpt lat="51.048837" lon="13.720385"><ele>119.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
