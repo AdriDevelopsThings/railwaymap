@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1418 filtered ascend = 3 plain-ascend = -1 cost=1418 energy=0.0kwh time=1m 52s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Außenring aus Ri. Hohenschönhausen - Richtung Bernau (Karower Kreuz)</name>
+  <trkseg>
+   <trkpt lat="52.600726" lon="13.46802"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.601274" lon="13.467321"><ele>50.75</ele></trkpt>
+   <trkpt lat="52.60162" lon="13.466893"><ele>50</ele></trkpt>
+   <trkpt lat="52.60194" lon="13.466526"><ele>49.5</ele></trkpt>
+   <trkpt lat="52.602117" lon="13.466322"><ele>49.25</ele></trkpt>
+   <trkpt lat="52.602587" lon="13.465781"><ele>48.75</ele></trkpt>
+   <trkpt lat="52.603909" lon="13.464132"><ele>47.25</ele></trkpt>
+   <trkpt lat="52.604198" lon="13.463771"><ele>47</ele></trkpt>
+   <trkpt lat="52.604506" lon="13.463411"><ele>47.25</ele></trkpt>
+   <trkpt lat="52.604812" lon="13.46309"><ele>47.5</ele></trkpt>
+   <trkpt lat="52.605096" lon="13.462842"><ele>47.25</ele></trkpt>
+   <trkpt lat="52.605379" lon="13.462634"><ele>47</ele></trkpt>
+   <trkpt lat="52.605521" lon="13.462544"><ele>47</ele></trkpt>
+   <trkpt lat="52.605698" lon="13.462445"><ele>47</ele></trkpt>
+   <trkpt lat="52.606011" lon="13.4623"><ele>47.5</ele></trkpt>
+   <trkpt lat="52.606388" lon="13.46218"><ele>48.75</ele></trkpt>
+   <trkpt lat="52.606608" lon="13.462133"><ele>49.75</ele></trkpt>
+   <trkpt lat="52.606902" lon="13.4621"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.607179" lon="13.462096"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.607507" lon="13.462129"><ele>50.75</ele></trkpt>
+   <trkpt lat="52.607583" lon="13.462146"><ele>50.75</ele></trkpt>
+   <trkpt lat="52.607593" lon="13.462148"><ele>50.75</ele></trkpt>
+   <trkpt lat="52.607818" lon="13.462198"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.608122" lon="13.462303"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.608406" lon="13.462434"><ele>49.75</ele></trkpt>
+   <trkpt lat="52.608485" lon="13.46248"><ele>50</ele></trkpt>
+   <trkpt lat="52.608666" lon="13.462584"><ele>50</ele></trkpt>
+   <trkpt lat="52.608925" lon="13.462763"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.609162" lon="13.462953"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.609263" lon="13.463042"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.60949" lon="13.463254"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.609716" lon="13.463482"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.610167" lon="13.463983"><ele>49.75</ele></trkpt>
+   <trkpt lat="52.610828" lon="13.464771"><ele>49</ele></trkpt>
+   <trkpt lat="52.610882" lon="13.464836"><ele>49</ele></trkpt>
+   <trkpt lat="52.61103" lon="13.46502"><ele>49</ele></trkpt>
+   <trkpt lat="52.611036" lon="13.465028"><ele>49</ele></trkpt>
+   <trkpt lat="52.611492" lon="13.465612"><ele>49.75</ele></trkpt>
+   <trkpt lat="52.61173" lon="13.465908"><ele>49.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
