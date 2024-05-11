@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1446 filtered ascend = 17 plain-ascend = 17 cost=1446 energy=0.0kwh time=1m 56s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="bikerouter.de 2024.15">
+ <trk>
+  <name>Grünauer Kreuz Nord - Grünauer Kreuz Süd</name>
+  <link href="https://brouter.m11n.de/#map=15/52.4195/13.5643/standard&amp;lonlats=13.561973,52.426766;13.559082,52.421685;13.553572,52.414874&amp;profile=rail">
+   <text>bikerouter.de</text>
+  </link>
+  <trkseg>
+   <trkpt lat="52.42675" lon="13.562051"><ele>35</ele></trkpt>
+   <trkpt lat="52.426443" lon="13.561898"><ele>36.25</ele></trkpt>
+   <trkpt lat="52.426417" lon="13.561885"><ele>36.25</ele></trkpt>
+   <trkpt lat="52.426308" lon="13.561831"><ele>36.5</ele></trkpt>
+   <trkpt lat="52.425697" lon="13.561497"><ele>37.25</ele></trkpt>
+   <trkpt lat="52.424048" lon="13.560446"><ele>35</ele></trkpt>
+   <trkpt lat="52.423201" lon="13.559987"><ele>35.75</ele></trkpt>
+   <trkpt lat="52.42216" lon="13.559439"><ele>35.25</ele></trkpt>
+   <trkpt lat="52.421751" lon="13.5592"><ele>35</ele></trkpt>
+   <trkpt lat="52.421712" lon="13.559177"><ele>35</ele></trkpt>
+   <trkpt lat="52.421669" lon="13.559151"><ele>38</ele></trkpt>
+   <trkpt lat="52.420937" lon="13.558724"><ele>38</ele></trkpt>
+   <trkpt lat="52.420498" lon="13.558422"><ele>38</ele></trkpt>
+   <trkpt lat="52.420313" lon="13.558294"><ele>37.75</ele></trkpt>
+   <trkpt lat="52.419675" lon="13.557812"><ele>37.75</ele></trkpt>
+   <trkpt lat="52.419487" lon="13.557659"><ele>38.25</ele></trkpt>
+   <trkpt lat="52.419245" lon="13.557452"><ele>38.75</ele></trkpt>
+   <trkpt lat="52.417695" lon="13.556097"><ele>37.25</ele></trkpt>
+   <trkpt lat="52.417181" lon="13.555637"><ele>37</ele></trkpt>
+   <trkpt lat="52.417064" lon="13.555544"><ele>37.25</ele></trkpt>
+   <trkpt lat="52.416828" lon="13.555344"><ele>38</ele></trkpt>
+   <trkpt lat="52.416558" lon="13.555096"><ele>39.5</ele></trkpt>
+   <trkpt lat="52.415263" lon="13.553983"><ele>46.75</ele></trkpt>
+   <trkpt lat="52.414901" lon="13.553661"><ele>47</ele></trkpt>
+   <trkpt lat="52.414856" lon="13.553624"><ele>49</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
