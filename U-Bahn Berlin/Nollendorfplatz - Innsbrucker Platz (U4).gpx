@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2959 filtered ascend = 1 plain-ascend = 1 cost=5918 energy=0.0kwh time=3m 57s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Nollendorfplatz - Innsbrucker Platz (U4)</name>
+  <trkseg>
+   <trkpt lat="52.500048" lon="13.355192"/>
+   <trkpt lat="52.499875" lon="13.35468"/>
+   <trkpt lat="52.499831" lon="13.354536"/>
+   <trkpt lat="52.499764" lon="13.354235"/>
+   <trkpt lat="52.499745" lon="13.354102"/>
+   <trkpt lat="52.499697" lon="13.353813"/>
+   <trkpt lat="52.499643" lon="13.353559"/>
+   <trkpt lat="52.499598" lon="13.353379"/>
+   <trkpt lat="52.499578" lon="13.353297"/>
+   <trkpt lat="52.499484" lon="13.353029"/>
+   <trkpt lat="52.499274" lon="13.352578"/>
+   <trkpt lat="52.499184" lon="13.352347"/>
+   <trkpt lat="52.499134" lon="13.352189"/>
+   <trkpt lat="52.499049" lon="13.351961"/>
+   <trkpt lat="52.498798" lon="13.351189"/>
+   <trkpt lat="52.496629" lon="13.344511"/>
+   <trkpt lat="52.496397" lon="13.343719"/>
+   <trkpt lat="52.496289" lon="13.343376"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.496105" lon="13.342784"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.496002" lon="13.342524"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.4959" lon="13.34233"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.495814" lon="13.342202"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.495735" lon="13.342107"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.495615" lon="13.341994"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.495498" lon="13.341907"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.495386" lon="13.341847"><ele>41.5</ele></trkpt>
+   <trkpt lat="52.495276" lon="13.34181"/>
+   <trkpt lat="52.495205" lon="13.341796"/>
+   <trkpt lat="52.494236" lon="13.341762"/>
+   <trkpt lat="52.492402" lon="13.341845"/>
+   <trkpt lat="52.491418" lon="13.341911"/>
+   <trkpt lat="52.491256" lon="13.341904"/>
+   <trkpt lat="52.491166" lon="13.341886"/>
+   <trkpt lat="52.491054" lon="13.341844"/>
+   <trkpt lat="52.490989" lon="13.34182"/>
+   <trkpt lat="52.490835" lon="13.341727"/>
+   <trkpt lat="52.490752" lon="13.341663"/>
+   <trkpt lat="52.490568" lon="13.341473"/>
+   <trkpt lat="52.490485" lon="13.341362"/>
+   <trkpt lat="52.490019" lon="13.340623"/>
+   <trkpt lat="52.489904" lon="13.34049"/>
+   <trkpt lat="52.489777" lon="13.340384"/>
+   <trkpt lat="52.489645" lon="13.340309"/>
+   <trkpt lat="52.48955" lon="13.340276"/>
+   <trkpt lat="52.488973" lon="13.340193"/>
+   <trkpt lat="52.488613" lon="13.340147"/>
+   <trkpt lat="52.48847" lon="13.340143"/>
+   <trkpt lat="52.488121" lon="13.340181"/>
+   <trkpt lat="52.48782" lon="13.340254"/>
+   <trkpt lat="52.485683" lon="13.341024"><ele>39.25</ele></trkpt>
+   <trkpt lat="52.483908" lon="13.341665"><ele>39.25</ele></trkpt>
+   <trkpt lat="52.483514" lon="13.341787"><ele>39.25</ele></trkpt>
+   <trkpt lat="52.483391" lon="13.341814"><ele>39.25</ele></trkpt>
+   <trkpt lat="52.482992" lon="13.341958"><ele>39.75</ele></trkpt>
+   <trkpt lat="52.482805" lon="13.342023"><ele>40.5</ele></trkpt>
+   <trkpt lat="52.482543" lon="13.342128"/>
+   <trkpt lat="52.482149" lon="13.342305"/>
+   <trkpt lat="52.480569" lon="13.342879"/>
+   <trkpt lat="52.479985" lon="13.343161"/>
+   <trkpt lat="52.479794" lon="13.343254"/>
+   <trkpt lat="52.479599" lon="13.343333"/>
+   <trkpt lat="52.479166" lon="13.343498"/>
+   <trkpt lat="52.47897" lon="13.343594"/>
+   <trkpt lat="52.478852" lon="13.343651"/>
+   <trkpt lat="52.478827" lon="13.343664"/>
+  </trkseg>
+ </trk>
+</gpx>
