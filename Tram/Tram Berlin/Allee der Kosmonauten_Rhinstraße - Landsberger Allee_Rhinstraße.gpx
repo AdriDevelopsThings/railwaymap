@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1297 filtered ascend = 11 plain-ascend = 4 cost=2594 energy=0.0kwh time=1m 44s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Allee der Kosmonauten/Rhinstraße - Landsberger Allee/Rhinstraße</name>
+  <trkseg>
+   <trkpt lat="52.524929" lon="13.519682"><ele>51.5</ele></trkpt>
+   <trkpt lat="52.525059" lon="13.519671"><ele>51.5</ele></trkpt>
+   <trkpt lat="52.525444" lon="13.519634"><ele>50.75</ele></trkpt>
+   <trkpt lat="52.525513" lon="13.519629"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.525694" lon="13.519612"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.525796" lon="13.519603"><ele>50</ele></trkpt>
+   <trkpt lat="52.525849" lon="13.519598"><ele>50</ele></trkpt>
+   <trkpt lat="52.525931" lon="13.519591"><ele>50</ele></trkpt>
+   <trkpt lat="52.525961" lon="13.519588"><ele>50</ele></trkpt>
+   <trkpt lat="52.526045" lon="13.519582"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.52611" lon="13.519574"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.52618" lon="13.519571"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.526213" lon="13.51955"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.526226" lon="13.519554"><ele>50.5</ele></trkpt>
+   <trkpt lat="52.526278" lon="13.519561"><ele>50.75</ele></trkpt>
+   <trkpt lat="52.526317" lon="13.519558"><ele>50.75</ele></trkpt>
+   <trkpt lat="52.527171" lon="13.519478"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.527192" lon="13.519477"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.528622" lon="13.519345"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.528776" lon="13.51933"><ele>52</ele></trkpt>
+   <trkpt lat="52.528906" lon="13.519317"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.529431" lon="13.519269"><ele>50.25</ele></trkpt>
+   <trkpt lat="52.529589" lon="13.519258"><ele>49.75</ele></trkpt>
+   <trkpt lat="52.530646" lon="13.51916"><ele>48</ele></trkpt>
+   <trkpt lat="52.531286" lon="13.519101"><ele>48</ele></trkpt>
+   <trkpt lat="52.531351" lon="13.519099"><ele>48</ele></trkpt>
+   <trkpt lat="52.531564" lon="13.519076"><ele>48</ele></trkpt>
+   <trkpt lat="52.532111" lon="13.519043"><ele>49</ele></trkpt>
+   <trkpt lat="52.532656" lon="13.518997"><ele>50.75</ele></trkpt>
+   <trkpt lat="52.532758" lon="13.518982"><ele>51.5</ele></trkpt>
+   <trkpt lat="52.532816" lon="13.518974"><ele>51.75</ele></trkpt>
+   <trkpt lat="52.532846" lon="13.518968"><ele>52</ele></trkpt>
+   <trkpt lat="52.53291" lon="13.518952"><ele>52.5</ele></trkpt>
+   <trkpt lat="52.532986" lon="13.518934"><ele>53</ele></trkpt>
+   <trkpt lat="52.533212" lon="13.518854"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.533413" lon="13.518767"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.533566" lon="13.51869"><ele>57</ele></trkpt>
+   <trkpt lat="52.533727" lon="13.518588"><ele>58</ele></trkpt>
+   <trkpt lat="52.534739" lon="13.517838"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.535153" lon="13.517532"><ele>53.75</ele></trkpt>
+   <trkpt lat="52.53522" lon="13.517487"><ele>54</ele></trkpt>
+   <trkpt lat="52.535274" lon="13.517454"><ele>54</ele></trkpt>
+   <trkpt lat="52.535334" lon="13.517417"><ele>54</ele></trkpt>
+   <trkpt lat="52.535384" lon="13.517387"><ele>54</ele></trkpt>
+   <trkpt lat="52.53547" lon="13.517335"><ele>54</ele></trkpt>
+   <trkpt lat="52.535525" lon="13.517301"><ele>54</ele></trkpt>
+   <trkpt lat="52.535555" lon="13.517283"><ele>54</ele></trkpt>
+   <trkpt lat="52.535584" lon="13.517265"><ele>54</ele></trkpt>
+   <trkpt lat="52.535624" lon="13.517241"><ele>54</ele></trkpt>
+   <trkpt lat="52.535654" lon="13.517224"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.535698" lon="13.51719"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.536243" lon="13.516781"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.536316" lon="13.516722"><ele>55.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

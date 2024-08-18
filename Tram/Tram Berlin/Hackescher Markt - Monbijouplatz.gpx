@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 463 filtered ascend = 4 plain-ascend = 0 cost=926 energy=0.0kwh time=37s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Hackescher Markt - Monbijouplatz</name>
+  <trkseg>
+   <trkpt lat="52.522417" lon="13.402638"><ele>39.5</ele></trkpt>
+   <trkpt lat="52.522582" lon="13.403271"><ele>37.5</ele></trkpt>
+   <trkpt lat="52.522616" lon="13.40341"><ele>37.75</ele></trkpt>
+   <trkpt lat="52.52264" lon="13.403513"><ele>38.25</ele></trkpt>
+   <trkpt lat="52.522663" lon="13.403585"><ele>38.5</ele></trkpt>
+   <trkpt lat="52.522695" lon="13.403655"><ele>38.75</ele></trkpt>
+   <trkpt lat="52.52273" lon="13.403703"><ele>39</ele></trkpt>
+   <trkpt lat="52.522767" lon="13.403735"><ele>39.25</ele></trkpt>
+   <trkpt lat="52.522819" lon="13.40376"><ele>39.5</ele></trkpt>
+   <trkpt lat="52.522856" lon="13.403765"><ele>39.75</ele></trkpt>
+   <trkpt lat="52.5229" lon="13.403761"><ele>39.75</ele></trkpt>
+   <trkpt lat="52.522935" lon="13.403744"><ele>40</ele></trkpt>
+   <trkpt lat="52.522974" lon="13.403707"><ele>40</ele></trkpt>
+   <trkpt lat="52.523031" lon="13.403633"><ele>40.25</ele></trkpt>
+   <trkpt lat="52.523083" lon="13.403517"><ele>40.5</ele></trkpt>
+   <trkpt lat="52.523185" lon="13.403285"><ele>41</ele></trkpt>
+   <trkpt lat="52.52339" lon="13.402821"><ele>42.5</ele></trkpt>
+   <trkpt lat="52.52346" lon="13.402663"><ele>43</ele></trkpt>
+   <trkpt lat="52.523488" lon="13.402599"><ele>43</ele></trkpt>
+   <trkpt lat="52.523564" lon="13.402427"><ele>43.5</ele></trkpt>
+   <trkpt lat="52.523608" lon="13.402288"><ele>43.75</ele></trkpt>
+   <trkpt lat="52.523618" lon="13.402226"><ele>43.75</ele></trkpt>
+   <trkpt lat="52.523634" lon="13.402062"><ele>44</ele></trkpt>
+   <trkpt lat="52.523636" lon="13.401941"><ele>44</ele></trkpt>
+   <trkpt lat="52.523636" lon="13.40189"><ele>44.25</ele></trkpt>
+   <trkpt lat="52.523637" lon="13.401808"><ele>44.25</ele></trkpt>
+   <trkpt lat="52.523641" lon="13.401315"><ele>43.75</ele></trkpt>
+   <trkpt lat="52.523642" lon="13.401292"><ele>43.75</ele></trkpt>
+   <trkpt lat="52.523645" lon="13.401017"><ele>43.25</ele></trkpt>
+   <trkpt lat="52.523646" lon="13.400982"><ele>43.25</ele></trkpt>
+   <trkpt lat="52.523658" lon="13.400265"><ele>42</ele></trkpt>
+   <trkpt lat="52.523671" lon="13.399799"><ele>41</ele></trkpt>
+   <trkpt lat="52.523673" lon="13.399731"><ele>41</ele></trkpt>
+   <trkpt lat="52.523675" lon="13.399667"><ele>40.75</ele></trkpt>
+   <trkpt lat="52.523677" lon="13.399628"><ele>40.5</ele></trkpt>
+   <trkpt lat="52.523683" lon="13.399452"><ele>40</ele></trkpt>
+   <trkpt lat="52.5237" lon="13.399027"><ele>39</ele></trkpt>
+   <trkpt lat="52.523706" lon="13.398851"><ele>38.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

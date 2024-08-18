@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 530 filtered ascend = 1 plain-ascend = 1 cost=1060 energy=0.0kwh time=42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Schloßplatz Köpenick - Mügelheimer Straße/Wenenschloßstraße</name>
+  <trkseg>
+   <trkpt lat="52.444389" lon="13.574728"><ele>34.5</ele></trkpt>
+   <trkpt lat="52.444343" lon="13.575451"><ele>34</ele></trkpt>
+   <trkpt lat="52.444334" lon="13.575579"><ele>34</ele></trkpt>
+   <trkpt lat="52.444306" lon="13.576087"><ele>34</ele></trkpt>
+   <trkpt lat="52.444244" lon="13.576907"><ele>34.25</ele></trkpt>
+   <trkpt lat="52.444242" lon="13.576917"><ele>34</ele></trkpt>
+   <trkpt lat="52.444211" lon="13.577194"><ele>34</ele></trkpt>
+   <trkpt lat="52.444149" lon="13.577696"><ele>34</ele></trkpt>
+   <trkpt lat="52.444089" lon="13.578053"><ele>34</ele></trkpt>
+   <trkpt lat="52.444035" lon="13.578272"><ele>34</ele></trkpt>
+   <trkpt lat="52.443962" lon="13.578555"><ele>34.25</ele></trkpt>
+   <trkpt lat="52.443898" lon="13.57877"><ele>34.5</ele></trkpt>
+   <trkpt lat="52.443806" lon="13.579065"><ele>34.75</ele></trkpt>
+   <trkpt lat="52.443736" lon="13.579265"><ele>35</ele></trkpt>
+   <trkpt lat="52.443262" lon="13.580518"><ele>35.75</ele></trkpt>
+   <trkpt lat="52.443196" lon="13.580694"><ele>35.75</ele></trkpt>
+   <trkpt lat="52.442917" lon="13.581437"><ele>35.25</ele></trkpt>
+   <trkpt lat="52.44281" lon="13.581722"><ele>35.25</ele></trkpt>
+   <trkpt lat="52.442785" lon="13.581789"><ele>35.25</ele></trkpt>
+   <trkpt lat="52.442742" lon="13.581881"><ele>35.25</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>

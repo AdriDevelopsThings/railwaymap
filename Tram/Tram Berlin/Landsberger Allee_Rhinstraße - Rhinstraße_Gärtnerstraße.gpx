@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1274 filtered ascend = 4 plain-ascend = 0 cost=2548 energy=0.0kwh time=1m 42s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Landsberger Allee/Rhinstraße - Rhinstraße/Gärtnerstraße</name>
+  <trkseg>
+   <trkpt lat="52.535705" lon="13.517184"><ele>54.25</ele></trkpt>
+   <trkpt lat="52.536243" lon="13.516781"><ele>55.25</ele></trkpt>
+   <trkpt lat="52.536327" lon="13.516714"><ele>55.5</ele></trkpt>
+   <trkpt lat="52.536448" lon="13.51662"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.536844" lon="13.516294"><ele>56</ele></trkpt>
+   <trkpt lat="52.53761" lon="13.515693"><ele>55.75</ele></trkpt>
+   <trkpt lat="52.538336" lon="13.515153"><ele>55</ele></trkpt>
+   <trkpt lat="52.539428" lon="13.514325"><ele>57</ele></trkpt>
+   <trkpt lat="52.539522" lon="13.514254"><ele>57.25</ele></trkpt>
+   <trkpt lat="52.539639" lon="13.514166"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.539714" lon="13.51411"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.540168" lon="13.513773"><ele>58</ele></trkpt>
+   <trkpt lat="52.540204" lon="13.513745"><ele>58</ele></trkpt>
+   <trkpt lat="52.540341" lon="13.513637"><ele>58.25</ele></trkpt>
+   <trkpt lat="52.541354" lon="13.512899"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.54264" lon="13.511964"><ele>57.5</ele></trkpt>
+   <trkpt lat="52.542759" lon="13.511879"><ele>57.75</ele></trkpt>
+   <trkpt lat="52.543372" lon="13.511417"><ele>57</ele></trkpt>
+   <trkpt lat="52.543932" lon="13.511018"><ele>54.5</ele></trkpt>
+   <trkpt lat="52.54467" lon="13.510509"><ele>53</ele></trkpt>
+   <trkpt lat="52.545623" lon="13.509929"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.545723" lon="13.509872"><ele>52.25</ele></trkpt>
+   <trkpt lat="52.546135" lon="13.509622"><ele>53.25</ele></trkpt>
+   <trkpt lat="52.546185" lon="13.509592"><ele>53.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
