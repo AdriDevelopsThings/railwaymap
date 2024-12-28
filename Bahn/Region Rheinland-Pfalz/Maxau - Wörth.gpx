@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2805 filtered ascend = 1 plain-ascend = -2 cost=2805 energy=0.0kwh time=3m 45s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Maxau - Wörth</name>
+  <trkseg>
+   <trkpt lat="49.035891" lon="8.308522"><ele>108.25</ele></trkpt>
+   <trkpt lat="49.035932" lon="8.308195"><ele>108.25</ele></trkpt>
+   <trkpt lat="49.036065" lon="8.307129"><ele>107.75</ele></trkpt>
+   <trkpt lat="49.036183" lon="8.306183"><ele>107.5</ele></trkpt>
+   <trkpt lat="49.036246" lon="8.305665"><ele>107</ele></trkpt>
+   <trkpt lat="49.036286" lon="8.305333"><ele>107</ele></trkpt>
+   <trkpt lat="49.036609" lon="8.30275"><ele>107</ele></trkpt>
+   <trkpt lat="49.036795" lon="8.301264"><ele>107</ele></trkpt>
+   <trkpt lat="49.036929" lon="8.3003"><ele>107</ele></trkpt>
+   <trkpt lat="49.036989" lon="8.299861"><ele>108.75</ele></trkpt>
+   <trkpt lat="49.037109" lon="8.299111"><ele>107.5</ele></trkpt>
+   <trkpt lat="49.037202" lon="8.298608"><ele>107.75</ele></trkpt>
+   <trkpt lat="49.037223" lon="8.298509"><ele>108.75</ele></trkpt>
+   <trkpt lat="49.037348" lon="8.297929"><ele>108.75</ele></trkpt>
+   <trkpt lat="49.037497" lon="8.297328"><ele>108.25</ele></trkpt>
+   <trkpt lat="49.03752" lon="8.297237"><ele>107.75</ele></trkpt>
+   <trkpt lat="49.037523" lon="8.297223"><ele>107.75</ele></trkpt>
+   <trkpt lat="49.037681" lon="8.296624"><ele>106</ele></trkpt>
+   <trkpt lat="49.038186" lon="8.294722"><ele>107.75</ele></trkpt>
+   <trkpt lat="49.038993" lon="8.291681"><ele>105</ele></trkpt>
+   <trkpt lat="49.039096" lon="8.291276"><ele>105</ele></trkpt>
+   <trkpt lat="49.039181" lon="8.290954"><ele>105</ele></trkpt>
+   <trkpt lat="49.039291" lon="8.290552"><ele>105.25</ele></trkpt>
+   <trkpt lat="49.039516" lon="8.289711"><ele>104.75</ele></trkpt>
+   <trkpt lat="49.039578" lon="8.289467"><ele>103.5</ele></trkpt>
+   <trkpt lat="49.039852" lon="8.288409"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.040002" lon="8.287846"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.040196" lon="8.287109"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.040751" lon="8.285011"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.040806" lon="8.284813"><ele>104.25</ele></trkpt>
+   <trkpt lat="49.040873" lon="8.284578"><ele>104</ele></trkpt>
+   <trkpt lat="49.040879" lon="8.284557"><ele>104</ele></trkpt>
+   <trkpt lat="49.041021" lon="8.284057"><ele>104</ele></trkpt>
+   <trkpt lat="49.041164" lon="8.283599"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.041323" lon="8.28314"><ele>104.75</ele></trkpt>
+   <trkpt lat="49.04149" lon="8.282711"><ele>104.25</ele></trkpt>
+   <trkpt lat="49.041729" lon="8.282087"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.041893" lon="8.281712"><ele>104.75</ele></trkpt>
+   <trkpt lat="49.04197" lon="8.28153"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.041986" lon="8.281492"><ele>104.5</ele></trkpt>
+   <trkpt lat="49.042417" lon="8.280527"><ele>102.5</ele></trkpt>
+   <trkpt lat="49.042493" lon="8.280359"><ele>102.25</ele></trkpt>
+   <trkpt lat="49.043505" lon="8.278079"><ele>100.25</ele></trkpt>
+   <trkpt lat="49.043728" lon="8.277612"><ele>102</ele></trkpt>
+   <trkpt lat="49.043964" lon="8.277187"><ele>102.75</ele></trkpt>
+   <trkpt lat="49.044179" lon="8.276704"><ele>103</ele></trkpt>
+   <trkpt lat="49.044724" lon="8.275458"><ele>103.75</ele></trkpt>
+   <trkpt lat="49.045566" lon="8.273555"><ele>103.75</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
