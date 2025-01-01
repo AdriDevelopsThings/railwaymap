@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 1225 filtered ascend = 12 plain-ascend = 13 cost=2450 energy=0.0kwh time=1m 38s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>TU Lichtwiese/Campus - Jahnstraße (2)</name>
+  <trkseg>
+   <trkpt lat="49.862056" lon="8.680715"><ele>171.75</ele></trkpt>
+   <trkpt lat="49.862057" lon="8.680768"><ele>171.75</ele></trkpt>
+   <trkpt lat="49.862064" lon="8.681503"><ele>172</ele></trkpt>
+   <trkpt lat="49.86205" lon="8.681623"><ele>172</ele></trkpt>
+   <trkpt lat="49.862034" lon="8.681688"><ele>172.25</ele></trkpt>
+   <trkpt lat="49.861996" lon="8.681773"><ele>173</ele></trkpt>
+   <trkpt lat="49.861972" lon="8.681802"><ele>173.25</ele></trkpt>
+   <trkpt lat="49.861924" lon="8.681837"><ele>173.75</ele></trkpt>
+   <trkpt lat="49.861846" lon="8.681853"><ele>174.75</ele></trkpt>
+   <trkpt lat="49.861751" lon="8.681837"><ele>175.25</ele></trkpt>
+   <trkpt lat="49.861736" lon="8.681826"><ele>175.5</ele></trkpt>
+   <trkpt lat="49.861687" lon="8.681788"><ele>175.5</ele></trkpt>
+   <trkpt lat="49.86164" lon="8.68171"><ele>175.25</ele></trkpt>
+   <trkpt lat="49.861609" lon="8.681602"><ele>175</ele></trkpt>
+   <trkpt lat="49.861604" lon="8.681533"><ele>174.75</ele></trkpt>
+   <trkpt lat="49.861607" lon="8.681461"><ele>174.75</ele></trkpt>
+   <trkpt lat="49.861634" lon="8.681338"><ele>174.25</ele></trkpt>
+   <trkpt lat="49.861872" lon="8.680709"><ele>172.5</ele></trkpt>
+   <trkpt lat="49.861907" lon="8.680605"><ele>173</ele></trkpt>
+   <trkpt lat="49.861924" lon="8.680556"><ele>173</ele></trkpt>
+   <trkpt lat="49.861969" lon="8.680379"><ele>173.5</ele></trkpt>
+   <trkpt lat="49.861985" lon="8.680271"><ele>173.75</ele></trkpt>
+   <trkpt lat="49.861984" lon="8.680076"><ele>174.25</ele></trkpt>
+   <trkpt lat="49.86198" lon="8.679391"><ele>177.25</ele></trkpt>
+   <trkpt lat="49.86198" lon="8.679324"><ele>177.25</ele></trkpt>
+   <trkpt lat="49.861969" lon="8.679221"><ele>177.75</ele></trkpt>
+   <trkpt lat="49.861949" lon="8.67913"><ele>178.25</ele></trkpt>
+   <trkpt lat="49.861926" lon="8.679069"><ele>178.25</ele></trkpt>
+   <trkpt lat="49.861876" lon="8.678936"><ele>178.5</ele></trkpt>
+   <trkpt lat="49.861808" lon="8.67879"><ele>179</ele></trkpt>
+   <trkpt lat="49.861735" lon="8.678553"><ele>179.5</ele></trkpt>
+   <trkpt lat="49.861721" lon="8.678433"><ele>179.5</ele></trkpt>
+   <trkpt lat="49.861718" lon="8.678095"><ele>178.75</ele></trkpt>
+   <trkpt lat="49.861717" lon="8.677801"><ele>177.75</ele></trkpt>
+   <trkpt lat="49.861709" lon="8.676624"><ele>176.75</ele></trkpt>
+   <trkpt lat="49.861708" lon="8.676516"><ele>177.25</ele></trkpt>
+   <trkpt lat="49.861707" lon="8.67624"><ele>177.25</ele></trkpt>
+   <trkpt lat="49.861704" lon="8.675816"><ele>178</ele></trkpt>
+   <trkpt lat="49.861687" lon="8.675604"><ele>178</ele></trkpt>
+   <trkpt lat="49.861611" lon="8.674987"><ele>178</ele></trkpt>
+   <trkpt lat="49.861598" lon="8.674762"><ele>178</ele></trkpt>
+   <trkpt lat="49.861597" lon="8.674565"><ele>178</ele></trkpt>
+   <trkpt lat="49.861595" lon="8.673857"><ele>179</ele></trkpt>
+   <trkpt lat="49.861594" lon="8.67367"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.861576" lon="8.672825"><ele>180.5</ele></trkpt>
+   <trkpt lat="49.86147" lon="8.671356"><ele>180</ele></trkpt>
+   <trkpt lat="49.861461" lon="8.67119"><ele>180.25</ele></trkpt>
+   <trkpt lat="49.861333" lon="8.668877"><ele>180</ele></trkpt>
+   <trkpt lat="49.861274" lon="8.667996"><ele>180</ele></trkpt>
+   <trkpt lat="49.861267" lon="8.667885"><ele>180</ele></trkpt>
+   <trkpt lat="49.861269" lon="8.667807"><ele>180</ele></trkpt>
+   <trkpt lat="49.861281" lon="8.667719"><ele>180</ele></trkpt>
+   <trkpt lat="49.861299" lon="8.66767"><ele>180</ele></trkpt>
+   <trkpt lat="49.861356" lon="8.667568"><ele>180</ele></trkpt>
+   <trkpt lat="49.861389" lon="8.667538"><ele>180</ele></trkpt>
+   <trkpt lat="49.861435" lon="8.667513"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.861486" lon="8.667501"><ele>179.75</ele></trkpt>
+   <trkpt lat="49.861878" lon="8.667405"><ele>180.5</ele></trkpt>
+   <trkpt lat="49.86191" lon="8.667395"><ele>180.5</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
