@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 2834 filtered ascend = 0 plain-ascend = 0 cost=5668 energy=0.0kwh time=3m 46s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Turmstraße - Leopoldplatz (U9)</name>
+  <trkseg>
+   <trkpt lat="52.525996" lon="13.341361"/>
+   <trkpt lat="52.526053" lon="13.34137"/>
+   <trkpt lat="52.526405" lon="13.34141"/>
+   <trkpt lat="52.526596" lon="13.341403"/>
+   <trkpt lat="52.526892" lon="13.341422"/>
+   <trkpt lat="52.527392" lon="13.341379"/>
+   <trkpt lat="52.527829" lon="13.34138"/>
+   <trkpt lat="52.53043" lon="13.341371"/>
+   <trkpt lat="52.531417" lon="13.341368"/>
+   <trkpt lat="52.531792" lon="13.341411"/>
+   <trkpt lat="52.532453" lon="13.34141"/>
+   <trkpt lat="52.532826" lon="13.341362"/>
+   <trkpt lat="52.533246" lon="13.341312"/>
+   <trkpt lat="52.533668" lon="13.341306"/>
+   <trkpt lat="52.534038" lon="13.341345"/>
+   <trkpt lat="52.534315" lon="13.34141"/>
+   <trkpt lat="52.534597" lon="13.341526"/>
+   <trkpt lat="52.534763" lon="13.341594"/>
+   <trkpt lat="52.535332" lon="13.341878"/>
+   <trkpt lat="52.535957" lon="13.342233"/>
+   <trkpt lat="52.536316" lon="13.34245"/>
+   <trkpt lat="52.536619" lon="13.342607"/>
+   <trkpt lat="52.537211" lon="13.342869"/>
+   <trkpt lat="52.53764" lon="13.343064"/>
+   <trkpt lat="52.537963" lon="13.34325"/>
+   <trkpt lat="52.538283" lon="13.343499"/>
+   <trkpt lat="52.538302" lon="13.34352"/>
+   <trkpt lat="52.538662" lon="13.343897"/>
+   <trkpt lat="52.538938" lon="13.344291"/>
+   <trkpt lat="52.539777" lon="13.34557"/>
+   <trkpt lat="52.541315" lon="13.347877"/>
+   <trkpt lat="52.541618" lon="13.348409"/>
+   <trkpt lat="52.541868" lon="13.349033"/>
+   <trkpt lat="52.542075" lon="13.349597"><ele>39.25</ele></trkpt>
+   <trkpt lat="52.542512" lon="13.350786"><ele>39.25</ele></trkpt>
+   <trkpt lat="52.542586" lon="13.350984"><ele>39.25</ele></trkpt>
+   <trkpt lat="52.542674" lon="13.35122"/>
+   <trkpt lat="52.543094" lon="13.352365"/>
+   <trkpt lat="52.543612" lon="13.35375"/>
+   <trkpt lat="52.544121" lon="13.355001"/>
+   <trkpt lat="52.544629" lon="13.35612"/>
+   <trkpt lat="52.545135" lon="13.357145"/>
+   <trkpt lat="52.545385" lon="13.357613"/>
+   <trkpt lat="52.545454" lon="13.357733"/>
+   <trkpt lat="52.545955" lon="13.358606"/>
+   <trkpt lat="52.546348" lon="13.359224"/>
+   <trkpt lat="52.546585" lon="13.359578"/>
+  </trkseg>
+ </trk>
+</gpx>
